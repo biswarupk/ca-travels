@@ -1,0 +1,13 @@
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\ViewModels.dll
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\ViewModels.pdb
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\787496\CATravels\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\Utility.dll
+C:\787496\CATravels\Repository\bin\Debug\netcoreapp2.1\Utility.pdb

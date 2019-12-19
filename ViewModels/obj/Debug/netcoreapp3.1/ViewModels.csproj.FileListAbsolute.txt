@@ -1,0 +1,8 @@
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb

@@ -1,0 +1,76 @@
+﻿@using CatTravels.ValueObject
+@model CATravels.Models.HotelSearchRequest
+
+@{
+    ViewData["Title"] = "Get Hotels List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Get Hotels List</h2>
+
+<div class="container">
+    <!-- all the navigation stuff -->
+    <div class="col-md-3">
+        <h2 style="color: white">Search Hotels</h2>
+    </div>
+    <div class="col-md-9">
+        <form asp-action="Index" method="post" class="form-main  form-inline nofloat-xs pull-right pull-left-sm">
+            <div class="form-group form-input-fields form-group-lg has-feedback">
+                <label class="sr-only" for="search">Search</label>
+                <div class="input-group">
+                    <select class="custom-select form-control" asp-for="DestinationId" required>
+                        <option selected value="">Select Destination</option>
+                        <option value="279">India</option>
+                        <option value="1419">Spain</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <input type="number" min="1" asp-for="Nights" class="form-control" placeholder="Nights" required>
+                </div>
+
+                <button type="submit" class="btn btn-lg btn-success btn-submit">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span> Search
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="container">
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Board Type</th>
+                <th scope="col">Hotel Name</th>
+                <th scope="col">Rate Type</th>
+                <th scope="col">Base Price</th>
+                <th scope="col">Actual Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var resultSet = ViewData["ResultSet"] as FindBargainResponseMessage;
+            }
+            @if (resultSet != null && resultSet.HotelDetails.Any())
+            {
+                @foreach (var hotel in resultSet.HotelDetails)
+                {
+                    <tr>
+                        <td>@hotel.BoardType</td>
+                        <td>@hotel.HotelName</td>
+                        <td>@hotel.RateType</td>
+                        <td>@hotel.BasePrice</td>
+                        <td>@hotel.ActualPrice</td>
+                    </tr>
+                }
+            }
+            else if (resultSet != null)
+            {
+                <tr>
+                    <td colspan="5" class="text-danger">No data found</td>
+                </tr>
+            }
+            else { }
+        </tbody>
+    </table>
+</div>
+

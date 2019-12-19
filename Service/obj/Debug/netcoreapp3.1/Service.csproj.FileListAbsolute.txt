@@ -1,0 +1,15 @@
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Repository.exe
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.exe
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Repository.dll
+C:\787496\CATravels\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\787496\CATravels\Service\obj\Debug\netcoreapp3.1\Service.pdb

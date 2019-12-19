@@ -1,0 +1,7 @@
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp2.1\CatTravels.ViewModels.deps.json
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp2.1\CatTravels.ViewModels.dll
+C:\787496\CATravels\ViewModels\bin\Debug\netcoreapp2.1\CatTravels.ViewModels.pdb
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp2.1\CatTravels.ViewModels.AssemblyInfoInputs.cache
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp2.1\CatTravels.ViewModels.AssemblyInfo.cs
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp2.1\CatTravels.ViewModels.dll
+C:\787496\CATravels\ViewModels\obj\Debug\netcoreapp2.1\CatTravels.ViewModels.pdb
